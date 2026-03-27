@@ -1,7 +1,3 @@
-Absolutely! Here’s a **comprehensive, advanced secrets management guide for Terraform** that you can publish as a **GitHub repository README** or a **detailed blog post**. I structured it as a practical reference for DevOps and cloud engineers.
-
----
-
 # **Terraform Advanced Secrets Management Guide**
 
 Managing secrets in Terraform safely is critical. Mismanaged secrets can leak credentials, tokens, and sensitive configuration into version control, CI/CD pipelines, or state files. This guide walks you through best practices across multiple cloud environments, with examples for **AWS** and **HashiCorp Vault**.
